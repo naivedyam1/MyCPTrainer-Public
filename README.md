@@ -719,7 +719,7 @@ Interested in this project? Want to discuss the technical implementation?
 
 <p>
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/📧_Email-Contact_Me-red?style=for-the-badge"/></a>
-<a href="https://linkedin.com/in/uday-raj-vadeghar"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/naivedyam-mishra-20a23398/"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=for-the-badge"/></a>
 </p>
 
 </div>
