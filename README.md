@@ -678,7 +678,7 @@ CREATE INDEX idx_testcases_problem_index ON Testcase(problemId, index);
 <td align="center" width="200">
 <img src="https://github.com/UdayRajVadeghar.png" width="100" style="border-radius: 50%"/>
 <br/><b>Uday Raj Vadeghar</b>
-<br/><sub>Co-Founder & Full Stack Developer</sub>
+<br/><sub>Founder & Full Stack Developer</sub>
 <br/>
 <a href="https://github.com/UdayRajVadeghar"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/uday-raj-vadeghar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -686,7 +686,7 @@ CREATE INDEX idx_testcases_problem_index ON Testcase(problemId, index);
 <td align="center" width="200">
 <img src="https://codeforces.org/userpic/naivedyam" width="100" style="border-radius: 50%"/>
 <br/><b>Naivedyam Mishra</b>
-<br/><sub>Co-Founder & CP Expert</sub>
+<br/><sub>Founder & CP Expert</sub>
 <br/>
 <a href="https://codeforces.com/profile/naivedyam"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
 <a href="https://linkedin.com/in/naivedyam-mishra-20a23398"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
